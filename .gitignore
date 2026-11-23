@@ -1,0 +1,7 @@
+build
+cmake-build-*
+Build
+*.idea
+.DS_Store
+CMakeUserPresets.json
+compile_commands.json
